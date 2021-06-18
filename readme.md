@@ -29,6 +29,12 @@ licence: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 10. [Методология ветвления](./branch_method.md)
 11. [Учебник по GIT](https://githowto.com/ru)
 
+---
+---
 
 
 
+### Have fun )))
+
+
+![have fun](./assets/fun.gif)
